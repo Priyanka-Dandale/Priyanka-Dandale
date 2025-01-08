@@ -1,10 +1,11 @@
 <h1>Hi 👋, I'm Priyanka, an AI enthusiast.</h1>
-<h2>Welcome to my GitHub! I'm Priyanka, a seasoned AI and Data Science professional with over 5 years of experience in analytics, specializing in machine learning, deep learning, NLP, text analytics, and GenAI solutions. I thrive on solving complex business challenges, optimizing marketing strategies, and driving impactful insights with data.</h2>
-
+<h3>Welcome to my GitHub! I'm Priyanka, a seasoned AI and Data Science professional with over 5 years of experience in analytics, specializing in machine learning, deep learning, NLP, text analytics, and GenAI solutions. I thrive on solving complex business challenges, optimizing marketing strategies, and driving impactful insights with data.</h3>
+<h3>
 <p>Current Role: Senior Unit Manager at Bajaj Finance Ltd., where I lead advanced analytics projects and develop innovative AI-driven solutions.</p>
 <p>Specialization: Statistical modeling, predictive analytics, propensity modeling, and cloud-based solutions.</p>
 <p>Tools & Skills: Python, SQL, Tableau, Power BI, TensorFlow, PySpark, and Delta Live Tables.
 </p>
+</h3>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="42" height="42" /></a>
