@@ -1,3 +1,6 @@
+<p><img src="https://media.licdn.com/dms/image/v2/D4E12AQH4OpeF8Kb2-A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1714517642237?e=2147483647&v=beta&t=lBP5Lk7zzCQ8QseM1XcRZZwj1eXQYXHhZU58DTNR2zY" alt="Priyanka Dandale"></p>
+<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p>
+
 <h1>Hi 👋, I'm Priyanka, an AI enthusiast.</h1>
 <h3>Welcome to my GitHub! I'm Priyanka, a seasoned AI and Data Science professional with over 5 years of experience in analytics, specializing in machine learning, deep learning, NLP, text analytics, and GenAI solutions. I thrive on solving complex business challenges, optimizing marketing strategies, and driving impactful insights with data.</h3>
 <h3>
