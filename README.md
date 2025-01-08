@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Priyanka, an AI enthusiast.</h1>
-<p>A passionate data scientist and AI enthusiast. 
-  Sr. Unit Manager | AI & Data Science Professional | NBFC Expertise
+<p>Sr. Unit Manager | AI & Data Science Professional | NBFC Expertise
 
 Welcome to my GitHub! I'm Priyanka, a seasoned AI and Data Science professional with over 5 years of experience in analytics, specializing in machine learning, deep learning, NLP, text analytics, and GenAI solutions. I thrive on solving complex business challenges, optimizing marketing strategies, and driving impactful insights with data.
 
