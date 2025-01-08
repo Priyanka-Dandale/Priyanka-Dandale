@@ -1,9 +1,11 @@
 <h1>Hi 👋, I'm Priyanka, an AI enthusiast.</h1>
 <h3>Welcome to my GitHub! I'm Priyanka, a seasoned AI and Data Science professional with over 5 years of experience in analytics, specializing in machine learning, deep learning, NLP, text analytics, and GenAI solutions. I thrive on solving complex business challenges, optimizing marketing strategies, and driving impactful insights with data.</h3>
 <h3>
+<h3>I am currently pursuing C-PGDBA in Marketing Management from SCDL.</h3>
+<p></p>
 <p>Current Role: Senior Unit Manager at Bajaj Finance Ltd., where I lead advanced analytics projects and develop innovative AI-driven solutions.</p>
-<p>Specialization: Statistical modeling, predictive analytics, propensity modeling, and cloud-based solutions.</p>
-<p>Tools & Skills: Python, SQL, Tableau, Power BI, TensorFlow, PySpark, and Delta Live Tables.
+<p>Specialization: Statistical modeling, Machine Learning, Predictive analytics, Propensity modeling, Deep Learning, Natural Laguage Processing, Computer-Vision, Generative AI, HuggingFace, Streamlit and Cloud-based solutions.</p>
+<p>Tools & Skills: Python, SQL, Tableau, Power BI, TensorFlow, PySpark, Azure Databricks and Delta Live Tables.
 </p>
 </h3>
 <p></p>
