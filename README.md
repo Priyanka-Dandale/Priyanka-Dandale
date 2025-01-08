@@ -1,4 +1,4 @@
-<p><img src="https://github.com/Priyanka-Dandale/Priyanka-Dandale" alt="Priyanka Dandale"></p>
+<p><img src="https://media.licdn.com/dms/image/v2/D4D12AQFstOfVMpNTfw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1720092463635?e=2147483647&v=beta&t=v7kbjuWGQYVaiGLswax1vE-GLQOcpc38yCYr4zfTLVc" alt="Priyanka Dandale"></p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p>
 
 <h1>Hi 👋, I'm Priyanka, an AI enthusiast.</h1>
